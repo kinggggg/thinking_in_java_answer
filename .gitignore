@@ -1,0 +1,14 @@
+.settings/
+classes/
+target/
+.classpath
+*.swp
+.project
+hs_err_pid*
+*.war
+*.iml
+.idea/
+.gradle/
+build/
+out/
+.DS_Store
